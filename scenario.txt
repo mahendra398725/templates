@@ -1,0 +1,20 @@
+tipe			: 
+	1. Super Admin
+	2. Admin
+	3. Writer/Submitter/Creator
+	4. Corrector/Operator/Publisher
+
+company	:
+	1.
+
+departemen	:
+	1
+
+level		:
+	1. CRUDPEI
+	2. CRUPEI
+	3. CREP
+
+email		:
+	company	:
+		1.
