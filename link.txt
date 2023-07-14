@@ -5,3 +5,4 @@
 4.  Laravel CRUD Web POS    = https://github.com/angkosal/laravel-pos.git
 5.  Laravel Web Next Pos    = https://github.com/Blair2004/NexoPOS
                               https://laravel-news.com/nexopos-point-of-sale-for-laravel
+6.  Laravel Web Kasir       = https://github.com/lakasir/lakasir.git
