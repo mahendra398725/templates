@@ -1,3 +1,5 @@
 Laravel Web inventory   = https://valcoding.com/aplikasi-sistem-informasi-inventory-berbasis-web-laravel
 Laravel Web e-catalog   = https://github.com/afiefafian/e-catalog.git
 Laravel CRUD Web GIS    = https://github.com/eripratama1/laravel-gisLeaflet.git
+                          https://eripratama.medium.com/tutorial-gis-crud-laravel-dan-leaflet-js-69dd56a56faf
+
