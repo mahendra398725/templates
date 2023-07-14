@@ -4,3 +4,4 @@
                               https://eripratama.medium.com/tutorial-gis-crud-laravel-dan-leaflet-js-69dd56a56faf
 4.  Laravel CRUD Web POS    = https://github.com/angkosal/laravel-pos.git
 5.  Laravel Web Next Pos    = https://github.com/Blair2004/NexoPOS
+                              https://laravel-news.com/nexopos-point-of-sale-for-laravel
