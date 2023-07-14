@@ -1,5 +1,6 @@
-Laravel Web inventory   = https://valcoding.com/aplikasi-sistem-informasi-inventory-berbasis-web-laravel
-Laravel Web e-catalog   = https://github.com/afiefafian/e-catalog.git
-Laravel CRUD Web GIS    = https://github.com/eripratama1/laravel-gisLeaflet.git
-                          https://eripratama.medium.com/tutorial-gis-crud-laravel-dan-leaflet-js-69dd56a56faf
-Laravel CRUD Web POS    = https://github.com/angkosal/laravel-pos.git
+1.  Laravel Web inventory   = https://valcoding.com/aplikasi-sistem-informasi-inventory-berbasis-web-laravel
+2.  Laravel Web e-catalog   = https://github.com/afiefafian/e-catalog.git
+3.  Laravel CRUD Web GIS    = https://github.com/eripratama1/laravel-gisLeaflet.git
+                              https://eripratama.medium.com/tutorial-gis-crud-laravel-dan-leaflet-js-69dd56a56faf
+4.  Laravel CRUD Web POS    = https://github.com/angkosal/laravel-pos.git
+5.  Laravel Web Next Pos    = https://github.com/Blair2004/NexoPOS
